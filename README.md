@@ -10,3 +10,22 @@ GitHub.
 - Include all required files for grading.
 ## Project Folder Rules
 - Keep project files organized and clearly named.
+
+## Data Storage
+
+This notebook demonstrates a reproducible data storage workflow using CSV and Parquet formats, managed via environment variables.
+
+### Folder Structure
+
+- `data/raw/` — Raw CSV files
+- `data/processed/` — Optimized Parquet files
+
+### Formats Used
+
+- **CSV**: Human-readable and easy to share
+- **Parquet**: Efficient for analytics, preserves data types
+
+### Environment Variables
+
+Paths are loaded from `.env`:
+
