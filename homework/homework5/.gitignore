@@ -1,0 +1,12 @@
+# Ignore environment files
+.env
+
+# Ignore Python cache folders
+__pycache__/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments (if any)
+venv/
+.envrc
