@@ -39,22 +39,6 @@ Artifact: A trained machine learning model with an API or dashboard for credit r
 /docs - Project documentation, stakeholder memos, and presentation slides  
 Cadence for updates - Weekly commits with milestone updates at each project stage
 
-## Data Storage
 
-This notebook demonstrates a reproducible data storage workflow using CSV and Parquet formats, managed via environment variables.
-
-### Folder Structure
-
-- `data/raw/` — Raw CSV files
-- `data/processed/` — Optimized Parquet files
-
-### Formats Used
-
-- **CSV**: Human-readable and easy to share
-- **Parquet**: Efficient for analytics, preserves data types
-
-### Environment Variables
-
-Paths are loaded from `.env`:
 
 
