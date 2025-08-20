@@ -19,7 +19,17 @@ data/*
 !data/raw/*.csv
 
 # Ignore processed data (do not track outputs)
-data/processed/# Ignore local class materials
+data/processed/
+
+# Ignore all data by default
+data/*
+# But track raw and processed data
+!data/raw/
+!data/raw/*.csv
+!data/processed/
+!data/processed/*.csv
+
+# Ignore local class materials
 class_materials/
 
 # Ignore Python cache files
