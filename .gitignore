@@ -5,6 +5,27 @@ class_materials/
 __pycache__/
 *.pyc
 
+# Ignore environment and system files
+.env
+.DS_Store
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore all data by default
+data/*
+# But track raw data
+!data/raw/
+!data/raw/*.csv
+
+# Ignore processed data (do not track outputs)
+data/processed/# Ignore local class materials
+class_materials/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
 # Ignore environment files
 .env
 .env
