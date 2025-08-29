@@ -1,0 +1,9 @@
+from pathlib import Path
+import joblib
+
+MODEL_DIR = Path("model"); MODEL_DIR.mkdir(exist_ok=True)
+joblib.dump(pipeline, MODEL_DIR / "sme_pipeline.joblib")  # replace `pipeline` with your fitted pipeline objects
+BASE_DIR = Path(__file__).resolve().parent
+MODEL_PATH = Path(os.getenv("MODEL_PATH", BASE_DIR / "model" / "model.joblib"))
+FEATURES_PATH = Path(os.getenv("FEATURES_PATH", BASE_DIR / "model" / "feature_names.json"))
+DATA_PATH = Path(os.getenv("DATA_PATH", BASE_DIR / "project" / "data" / "raw" / "german.data-numeric"))

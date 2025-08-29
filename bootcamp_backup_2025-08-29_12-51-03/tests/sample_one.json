@@ -1,0 +1,6 @@
+{
+  "checking_status": 1, "duration_months": 12, "credit_history": 3, "purpose": 2, "credit_amount": 2500,
+  "savings_status": 2, "employment_since": 4, "installment_rate_pct": 2, "personal_status_sex": 3, "other_debtors": 1,
+  "residence_since": 3, "property_magnitude": 2, "age_years": 35, "other_installment_plans": 1, "housing": 1,
+  "number_credits": 2, "job": 2, "people_liable": 1, "telephone": 1, "foreign_worker": 1
+}

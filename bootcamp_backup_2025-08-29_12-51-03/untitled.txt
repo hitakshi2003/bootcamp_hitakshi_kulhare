@@ -1,0 +1,5 @@
+DATA_PATH=project/data/german.data-numeric
+MODELS_DIR=models
+MODEL_PATH=models/model.joblib
+FEATURES_PATH=models/feature_names.json
+FLASK_ENV=development
