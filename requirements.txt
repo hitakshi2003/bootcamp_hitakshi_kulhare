@@ -9,12 +9,14 @@ attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1741918516150/wo
 babel @ file:///home/conda/feedstock_root/build_artifacts/babel_1738490167835/work
 beautifulsoup4 @ file:///home/conda/feedstock_root/build_artifacts/beautifulsoup4_1744783198182/work
 bleach @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_bleach_1737382993/work
+blinker==1.9.0
 Bottleneck @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_55txi4fy1u/croot/bottleneck_1731058642212/work
 Brotli @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_f7i0oxypt6/croot/brotli-split_1736182464088/work
 cached-property @ file:///home/conda/feedstock_root/build_artifacts/cached_property_1615209429212/work
 certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1754231422783/work/certifi
 cffi @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_e4xd9yd9i2/croot/cffi_1736182819442/work
 charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1754767332901/work
+click==8.2.1
 comm @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_comm_1753453984/work
 contourpy==1.3.2
 cramjam @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_caaq3j7zaj/croot/cramjam_1742392805601/work
@@ -27,6 +29,7 @@ exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongrou
 executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1745502089858/work
 fastjsonschema @ file:///home/conda/feedstock_root/build_artifacts/python-fastjsonschema_1733235979760/work/dist
 fastparquet @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_c69i0mfokn/croot/fastparquet_1743525282774/work
+Flask==3.1.2
 fonttools==4.59.1
 fqdn @ file:///home/conda/feedstock_root/build_artifacts/fqdn_1733327382592/work/dist
 frozendict==2.4.6
@@ -38,12 +41,16 @@ httpcore @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_h
 httpx @ file:///home/conda/feedstock_root/build_artifacts/httpx_1733663348460/work
 hyperframe @ file:///home/conda/feedstock_root/build_artifacts/hyperframe_1737618333194/work
 idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1733211830134/work
+imbalanced-learn==0.14.0
+imblearn==0.0
 importlib_metadata @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_importlib-metadata_1747934053/work
 ipykernel @ file:///Users/runner/miniforge3/conda-bld/ipykernel_1754352890318/work
 ipython @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_ipython_1748711175/work
 isoduration @ file:///home/conda/feedstock_root/build_artifacts/isoduration_1733493628631/work/dist
+itsdangerous==2.2.0
 jedi @ file:///home/conda/feedstock_root/build_artifacts/jedi_1733300866624/work
 Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1741263328855/work
+joblib @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_ab63pvs6mh/croot/joblib_1754310212451/work
 json5 @ file:///home/conda/feedstock_root/build_artifacts/json5_1755034879854/work
 jsonpointer==2.0
 jsonschema @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_jsonschema_1752925388/work
@@ -107,12 +114,16 @@ rfc3339_validator @ file:///home/conda/feedstock_root/build_artifacts/rfc3339-va
 rfc3986-validator @ file:///home/conda/feedstock_root/build_artifacts/rfc3986-validator_1598024191506/work
 rfc3987-syntax @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_rfc3987-syntax_1752876729/work
 rpds-py @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_3awdke3eyt/croot/rpds-py_1736542475137/work
+scikit-learn @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_aew5bgsgui/croot/scikit-learn_1753427393651/work
+scipy @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_567ogtwk2r/croot/scipy_1747238053926/work/dist/scipy-1.15.3-cp310-cp310-macosx_11_0_arm64.whl#sha256=ed86b007ae3bad79c186ffea6c8ed3540630844b0709284a36e45885c7f1650b
+seaborn==0.13.2
 Send2Trash @ file:///Users/runner/miniforge3/conda-bld/send2trash_1733322099476/work
 six @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_six_1753199211/work
 sniffio @ file:///home/conda/feedstock_root/build_artifacts/sniffio_1733244044561/work
 soupsieve @ file:///home/conda/feedstock_root/build_artifacts/soupsieve_1746563585861/work
 stack_data @ file:///home/conda/feedstock_root/build_artifacts/stack_data_1733569443808/work
 terminado @ file:///Users/runner/miniforge3/conda-bld/terminado_1710263781917/work
+threadpoolctl @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_efa5bvb6vi/croot/threadpoolctl_1719407806403/work
 tinycss2 @ file:///home/conda/feedstock_root/build_artifacts/tinycss2_1729802851396/work
 tomli @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_tomli_1753796677/work
 tornado @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_63s3osc0_1/croot/tornado_1748956943583/work
@@ -128,6 +139,7 @@ webcolors @ file:///home/conda/feedstock_root/build_artifacts/webcolors_17333597
 webencodings @ file:///home/conda/feedstock_root/build_artifacts/webencodings_1733236011802/work
 websocket-client @ file:///home/conda/feedstock_root/build_artifacts/websocket-client_1733157342724/work
 websockets==15.0.1
+Werkzeug==3.1.3
 yfinance==0.2.65
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1749421620841/work
 zstandard @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a5_i6g4o6n/croot/zstandard_1731356352787/work
